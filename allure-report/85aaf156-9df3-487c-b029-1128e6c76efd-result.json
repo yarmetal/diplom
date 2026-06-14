@@ -1,0 +1,109 @@
+{
+    "name": "transferToAllNewsThroughMainPage",
+    "start": 1781443332594,
+    "stop": 1781443338101,
+    "stage": "finished",
+    "description": "Переход во вкладку \"Все новости\" через главную страницу",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Ожидание загрузки главного экрана",
+            "start": 1781443332816,
+            "stop": 1781443332816,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка отображения кнопки 'ВСЕ НОВОСТИ'",
+            "start": 1781443336748,
+            "stop": 1781443336750,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажатие кнопки 'ВСЕ НОВОСТИ'",
+            "start": 1781443336777,
+            "stop": 1781443336777,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "85aaf156-9df3-487c-b029-1128e6c76efd",
+    "historyId": "1b2d33bb8c9b9a869cc81c6536d7729a",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsSectionTests.transferToAllNewsThroughMainPage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsSectionTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "transferToAllNewsThroughMainPage"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsSectionTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(519)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC-15"
+        },
+        {
+            "name": "epic",
+            "value": "Навигация по разделу новостей"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "name": "expandThematicQuote",
+    "start": 1781458858758,
+    "stop": 1781458863619,
+    "stage": "finished",
+    "description": "Развернуть и свернуть тематическую цитату в разделе \"Love is all\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Ожидание загрузки главного экрана",
+            "start": 1781458859069,
+            "stop": 1781458859074,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Открытие раздела цитат (иконка бабочки)",
+            "start": 1781458862420,
+            "stop": 1781458862420,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка заголовка 'Love is all'",
+            "start": 1781458862794,
+            "stop": 1781458862794,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Разворачивание/сворачивание карточки цитаты",
+            "start": 1781458862798,
+            "stop": 1781458862798,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "05fb2760-d19c-4fb4-825e-25222e2444f8",
+    "historyId": "128efae1f2dfc54ba916b4bda1ae31c9",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.QuoteFlowTests.expandThematicQuote",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.QuoteFlowTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "expandThematicQuote"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.QuoteFlowTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(266)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "TC-52"
+        },
+        {
+            "name": "epic",
+            "value": "Проверка тематических цитат"
+        }
+    ]
+}
