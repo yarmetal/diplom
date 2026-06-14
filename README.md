@@ -60,7 +60,7 @@
 5. [Тест-кейсы](https://github.com/yarmetal/diplom/blob/main/Cases.xlsx)
 
    
-7. [Отчёт о проведённом тестировании]()
+7. [Отчёт о проведённом тестировании](https://github.com/yarmetal/diplom/blob/main/Result.md)
 
 ## Технические детали
 - ОС: macOS (совместимо с любым окружением)
